@@ -1,0 +1,8 @@
+<Animation name="StandUp" framerate="6.000000">
+    <Sequence>
+        <SequenceElement>0</SequenceElement>
+   </Sequence>
+    <Frame width="32" height="48">
+        <Position X="36" Y="7"/>
+    </Frame>
+</Animation>

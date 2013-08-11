@@ -1,0 +1,17 @@
+<Animation name="WalkRight" framerate="6.000000">
+    <Sequence>
+        <SequenceElement>0</SequenceElement>
+        <SequenceElement>1</SequenceElement>
+        <SequenceElement>2</SequenceElement>
+        <SequenceElement>1</SequenceElement>
+    </Sequence>
+    <Frame width="32" height="48">
+        <Position X="0" Y="55"/>
+    </Frame>
+    <Frame width="32" height="48">
+        <Position X="36" Y="55"/>
+    </Frame>
+    <Frame width="32" height="48">
+        <Position X="73" Y="55"/>
+    </Frame>
+</Animation>

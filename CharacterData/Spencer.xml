@@ -1,0 +1,30 @@
+<Character name="Spencer">
+    <Layers>
+        <Layer image="CharacterLayers/misc_shadow.png"/>
+        <Layer image="CharacterLayers/body_caucasian.png"/>
+        <Layer image="CharacterLayers/cloths_pantsleather.png"/>
+        <Layer image="CharacterLayers/cloths_armor.png"/>
+        <Layer image="CharacterLayers/eyes_default.png"/>
+        <Layer image="CharacterLayers/eyes_green.png"/>
+        <Layer image="CharacterLayers/misc_slapeye.png"/>
+        <Layer image="CharacterLayers/misc_shoes.png"/>
+        <Layer image="CharacterLayers/misc_blackgloves.png"/>
+        <Layer image="CharacterLayers/misc_cape.png"/>
+        <Layer image="CharacterLayers/hair_semibald.png"/>
+        <Layer image="CharacterLayers/hair_mustache.png"/>
+        <Layer image="CharacterLayers/head_helmet.png"/>
+        <Layer image="CharacterLayers/hair_bun.png"/>
+        <Layer image="CharacterLayers/misc_epaulettes.png"/>
+    </Layers>
+    <Position X="750" Y="750" Z="2"/>
+    <Animations>
+        <Animation animation="Animations/CharacterAnimations/WalkUp.xml"/>
+        <Animation animation="Animations/CharacterAnimations/WalkDown.xml"/>
+        <Animation animation="Animations/CharacterAnimations/WalkLeft.xml"/>
+        <Animation animation="Animations/CharacterAnimations/WalkRight.xml"/>
+        <Animation animation="Animations/CharacterAnimations/StandUp.xml"/>
+        <Animation animation="Animations/CharacterAnimations/StandDown.xml"/>
+        <Animation animation="Animations/CharacterAnimations/StandLeft.xml"/>
+        <Animation animation="Animations/CharacterAnimations/StandRight.xml"/>
+    </Animations>
+</Character>
